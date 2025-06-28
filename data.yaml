@@ -1,0 +1,5 @@
+train: dataset_rebuilt/images/train
+val: dataset_rebuilt/images/val
+test: dataset_rebuilt/test/images
+nc: 2
+names: ['logo', 'cachet']
